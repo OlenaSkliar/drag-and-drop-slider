@@ -36,4 +36,7 @@ body{
         height: 60px;
         transform: translate(-30px, -30px)
     }
+    .play-pause >div{
+        font-size: 12px
+    }
 }
